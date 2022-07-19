@@ -1,2 +1,4 @@
 # Bixing-Gym-Database-Java
-Boxing gym database that interracts with a Java program.
+The topic I chose for my project can be very beneficial for organizing the structure of a boxing gym in terms of gym membership management and class scheduling. Boxing Gym Database will be very useful for the staff of the gym and the gym members. The membership model is a very vital factor in almost every type of gym structure. Staff members will be able to fully manage the account of existing gym members as well as registering new members. The gym members will benefit from our Boxing Gym Database as well. They will have an easy access to the schedule of the gym.
+I created a Java Program that plays the role of an user interface. It connects and interacts with a MySQL database. This repository consist of all the necessary SQL statements needed for the database to be recreated.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qz_urbSnRXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
